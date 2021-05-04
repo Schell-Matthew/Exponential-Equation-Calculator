@@ -8,7 +8,8 @@ Just do a simple "git clone https://github.com/TurboDynamics/Exponential-Equatio
 
 How to run:
 Python 3+ required. Anything older will not work!!!
-python3 main.py
+
+Run this in the terminal: "python3 main.py"
 
 
 How to use:
