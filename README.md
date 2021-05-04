@@ -4,7 +4,7 @@ If you have any questions or want to tell me how much of a great program this is
 
 
 How to download:
-Just do a simple "git clone https://github.com/TurboDynamics/Exponential-Equation-Calculator.git"
+Just do a simple "git clone https://github.com/TurboDynamics/Exponential-Equation-Calculator.git" in the terminal and you should be good to go
 
 How to run:
 Python 3+ required. Anything older will not work!!!
