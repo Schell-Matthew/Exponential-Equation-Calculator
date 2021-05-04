@@ -15,6 +15,7 @@ Run this in the terminal: "python3 main.py"
 How to use:
 
 If you want to create an exponential equation, pass the table of points in the format x, y | x, y | etc....
+
 Examples: 
 
   1. 0, 2 | 1, 4 | 2, 8 | 3, 16 | 4, 32
