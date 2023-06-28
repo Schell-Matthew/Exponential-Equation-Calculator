@@ -1,6 +1,6 @@
 # Exponential-Equation-Calculator
 This project calculates an exponential equation from a given table of coordinate points, exponential growth, and exponential decay. 
-If you have any questions or want to tell me how much of a great program this is, you can email me at matthewschell2007@icloud.com. Enjoy!
+
 
 
 How to download:
